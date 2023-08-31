@@ -1,7 +1,7 @@
 ## Mia's First CS193 Assignment
--I love the TA's 
--I love the lecture hall in the old church
--I love how late our class is!
+- I love the TA's 
+- I love the lecture hall in the old church
+- I love how late our class is!
 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
